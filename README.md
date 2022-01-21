@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @l3miage-fournieq (Quentin FOURNIER)
+- 👀 I’m interest in 👾
+- 🌱 Python - C - JavaScript - TypeScript - Angular - R
+- 📫 quentin2807@free.fr
